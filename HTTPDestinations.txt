@@ -1,0 +1,5 @@
+download.windowsupdate.com
+www.msftconnecttest.com
+go.microsoft.com
+ocsp.digicert.com
+ctldl.windowsupdate.com
